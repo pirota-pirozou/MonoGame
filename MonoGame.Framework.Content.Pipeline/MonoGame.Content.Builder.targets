@@ -63,6 +63,7 @@
 			'$(MonoGamePlatform)' != 'PlayStation4' And       
 			'$(MonoGamePlatform)' != 'PSVita' And       
 			'$(MonoGamePlatform)' != 'XboxOne' And       
+			'$(MonoGamePlatform)' != 'Switch' And       
 			'$(MonoGamePlatform)' != 'WindowsGL'" />
 
     <Error
